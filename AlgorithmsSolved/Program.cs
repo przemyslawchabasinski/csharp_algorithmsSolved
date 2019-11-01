@@ -9,7 +9,8 @@ namespace AlgorithmsSolved
     class Program
     {
         static void Main(string[] args)
-        {              
+        {
+            Console.WriteLine(result);
             Console.ReadKey();
         }        
     }
