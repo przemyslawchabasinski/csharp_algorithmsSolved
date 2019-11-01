@@ -10,10 +10,6 @@ namespace AlgorithmsSolved
     {
         static void Main(string[] args)
         {
-            int year = 1800;
-            var result = dayOfProgrammer(year);
-            Console.WriteLine(result);
-
             Console.ReadKey();
         }       
     }
