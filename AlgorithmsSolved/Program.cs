@@ -11,7 +11,7 @@ namespace AlgorithmsSolved
         static void Main(string[] args)
         {            
             Console.ReadKey();
-        }
+        }       
     }
 
 }
