@@ -13,6 +13,5 @@ namespace AlgorithmsSolved
         {
             Console.ReadKey();
         }       
-
     }
 }
