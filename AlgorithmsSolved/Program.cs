@@ -10,10 +10,7 @@ namespace AlgorithmsSolved
     class Program
     {
         static void Main(string[] args)
-        {
-            string vs = "abbaa";
-            var result = superReducedString(vs);
-            Console.Write(result);
+        {            
             Console.ReadKey();
         }      
     }
